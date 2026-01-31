@@ -1,0 +1,26 @@
+{
+    "1": {
+        "name": "To-Do List",
+        "description": "Create and manage daily tasks with priority levels and completion tracking."
+    },
+    "2": {
+        "name": "Calendar",
+        "description": "View and schedule events, set reminders, and organize your schedule by day, week, or month."
+    },
+    "3": {
+        "name": "Notes",
+        "description": "Write, organize, and store notes with tags and search functionality for quick retrieval."
+    },
+    "4": {
+        "name": "Goals",
+        "description": "Set long-term and short-term goals, track progress, and celebrate milestones."
+    },
+    "5": {
+        "name": "Habit Tracker",
+        "description": "Build positive habits by logging daily activities and visualizing your consistency streaks."
+    },
+    "6": {
+        "name": "Spotify",
+        "description": "Connect your Spotify account to view listening stats, top tracks, and discover new music recommendations."
+    }
+}
