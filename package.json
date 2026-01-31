@@ -1,0 +1,20 @@
+{
+  "name": "gyst",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/benl12337/gyst#readme",
+  "bugs": {
+    "url": "https://github.com/benl12337/gyst/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benl12337/gyst.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
